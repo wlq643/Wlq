@@ -1,5 +1,5 @@
-﻿泉州一套,rtmp://live.qztv.cn/live/news
-泉州四套,rtmp://live.qztv.cn/live/mny
+﻿泉州新闻,rtmp://live.qztv.cn/live/news
+泉州闽南语,rtmp://live.qztv.cn/live/mny
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯台,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
 民視,rtmp://f13h.mine.nu/sat/tv051
